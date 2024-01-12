@@ -1439,7 +1439,8 @@ nav a:hover span{
     .blog-card{
       width: 350px;
       left: 40px;
-      top: 210%;
+/*       top: 210%; */
+      top: 1920px;
     }
     .inner-part .img1{
       display: none;
